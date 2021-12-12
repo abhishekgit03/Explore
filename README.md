@@ -17,7 +17,7 @@ Glugle is a fully functional search engine made using Python Programming Languag
 - Find results based on a search query.
 - Display search results in a systematic and efficent manner by applying ranking algorithms.
 
-Special Thanks to Gnu/Linux Group NIT Durgapur
+## Special Thanks to Gnu/Linux Group NIT Durgapur
 
 ![1639233935128](https://user-images.githubusercontent.com/92089364/145718137-8977179e-e5df-48d1-a0d8-3cb66ebe1810.jpg)
 ![1639233935311](https://user-images.githubusercontent.com/92089364/145718138-8be5c355-de2e-4966-aca2-62cad3f61532.jpg)
